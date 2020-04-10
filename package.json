@@ -1,5 +1,5 @@
 {
-  "name": "data_structures-and-algorithms",
+  "name": "data_structures_and_algorithms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abdullah Naser",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
 }
